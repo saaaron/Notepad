@@ -1,0 +1,132 @@
+@font-face {
+  font-family: "REM Thin";
+  src:url("../../assets/fonts/REM/REM-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "REM ThinItalic";
+  src:url("../../assets/fonts/REM/REM-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "REM ExtraLight";
+  src:url("../../assets/fonts/REM/REM-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "REM ExtraLightItalic";
+  src:url("../../assets/fonts/REM/REM-ExtraLightItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "REM Light";
+  src:url("../../assets/fonts/REM/REM-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "REM LightItalic";
+  src:url("../../assets/fonts/REM/REM-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "REM Regular";
+  src:url("../../assets/fonts/REM/REM-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "REM RegularItalic";
+  src:url("../../assets/fonts/REM/REM-RegularItalic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "REM Thin";
+  src:url("../../assets/fonts/REM/REM-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "REM Medium";
+  src:url("../../assets/fonts/REM/REM-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "REM MediumItalic";
+  src:url("../../assets/fonts/REM/REM-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "REM SemiBold";
+  src:url("../../assets/fonts/REM/REM-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "REM SemiBoldItalic";
+  src:url("../../assets/fonts/REM/REM-SemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "REM Bold";
+  src:url("../../assets/fonts/REM/REM-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "REM BoldItalic";
+  src:url("../../assets/fonts/REM/REM-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "REM ExtraBold";
+  src:url("../../assets/fonts/REM/REM-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "REM ExtraBoldItalic";
+  src:url("../../assets/fonts/REM/REM-ExtraBoldItalic.ttf") format("truetype");
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "REM Black";
+  src:url("../../assets/fonts/REM/REM-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "REM BlackItalic";
+  src:url("../../assets/fonts/REM/REM-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+}

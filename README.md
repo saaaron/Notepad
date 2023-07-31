@@ -5,7 +5,7 @@ Online platform where users can seamlessly store notes
 [Sa Aaron](https://twitter.com/SaAaron6)
 
 ### Screenshots
-[img]https://i.ibb.co/7ntSmcT/Screenshot-9.png[/img]
+[image](https://i.ibb.co/7ntSmcT/Screenshot-9.png)
 
 ### Requirements
 HTML 5, CSS, Bootstrap 5, jQuery, PHP, MySQL
